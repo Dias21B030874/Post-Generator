@@ -1,5 +1,5 @@
 # Post-Generator
-a post generator for an Instagram real estate account using the OpenAI ChatGPT gpt3.5-turbo API
+A post generator for an Instagram real estate account using the OpenAI ChatGPT gpt3.5-turbo API
 
 Questions
 How to mimic the style of successful Instagram posts?
